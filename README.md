@@ -1,5 +1,5 @@
 # Water Level Detector
-![](https://github.com/Phayuth/IOT-Contactless-Temp-Measure/blob/main/cover.png?raw=true)
+![](/cover.png)
 
 ## List of Items
 
